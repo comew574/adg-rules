@@ -128,6 +128,7 @@
 ||adnetstatic.*^
 ||adnxs.com^
 ||adobe.com^
+||ads.pinterest.com^
 ||ads-twitter.com^
 ||adscdn.baidu.com^
 ||adsdk.idmzj.com^
