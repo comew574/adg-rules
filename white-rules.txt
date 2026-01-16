@@ -3,7 +3,7 @@
 #抖音App的放行
 @@||dig.bdurl.net^
 #抖➕下载放行
-@@||v3-awememusicpgc.amemv.com^
+@@||v*-awememusicpgc.amemv.com^
 
 #快跑官网放行
 @@||*.xn--4oqy37a1na874bjmj.com^
