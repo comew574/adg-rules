@@ -1,5 +1,5 @@
-#排序
 ||*-cdn-tos.bytegeckoext.com^
+||*-cdnfile*pcdn.msstatic.com^
 ||*-lq.snssdk.com^
 ||*-luckycat.byteimg.com^
 ||*-luckycatopen.byteimg.com^
@@ -138,6 +138,7 @@
 ||adservice.google.*^
 ||adsrich.qq.com^
 ||adtago.s3.amazonaws.com^
+||adult-movie.bidobido.xyz^
 ||adv.api.mucfc.com^
 ||advertise.bingads.microsoft.com^
 ||advice-ads.s3.amazonaws.com^
@@ -146,6 +147,7 @@
 ||adx.g.doubleclick.net^
 ||adx.maplehaze.cn^
 ||ae.bdstatic.com^
+||afdback.ppsimg.com^
 ||afs.googlesyndication.com^
 ||afuyer.com^
 ||ag-bj.2023126wz522.xyz^
@@ -166,6 +168,7 @@
 ||amazon-adsystem.com^
 ||amazon.com^
 ||amazonaws.com^
+||amemv.com^
 ||amplitude.com^
 ||an.facebook.com^
 ||analytics-api-*.smzdm.com^
@@ -278,6 +281,7 @@
 ||business-ad.cdn-go.cn^
 ||bwaa011.top^
 ||bwaa301.icu^
+||bytednsdoc.com^
 ||bytegecko.com^
 ||bzuh3qw6t7aq.top^
 ||c.baidu.com^
@@ -285,10 +289,12 @@
 ||cachefly.net^
 ||capmvb.net^
 ||cards-css.iqiyi.com^
+||catfront.dianping.com^
 ||cb.baidu.com^
 ||cbhdmir.cn^
 ||cbjs.baidu.com^
 ||cbjslog.baidu.com^
+||cdn-*.g52j7.com^
 ||cdn-api-verify.mob.com^
 ||cdn-haokanapk.baidu.com^
 ||cdocker401.com^
@@ -314,6 +320,7 @@
 ||cm.pos.baidu.com^
 ||cmts.iqiyi.com^
 ||cn-fp.apitd.net^
+||cn.aliyun.com^
 ||cnzz.com^
 ||code.jquery.com^
 ||coelacanth.yingt.fun^
@@ -370,6 +377,7 @@
 ||doubleclick.com^
 ||doubleclick.net^
 ||douyinliving.com^
+||douyinstatic.com^
 ||douyinve.starrydyn.com^
 ||down.apps.sina.cn^
 ||download.sd.baidu.com^
@@ -401,6 +409,7 @@
 ||efw884.vip^
 ||ehgssdg.cn^
 ||eiv.baidu.com^
+||electric-shop.yaoguo.com^
 ||enduser.adsrvr.org
 ||entry.baidu.com^
 ||eplwgq.cn^
@@ -649,6 +658,7 @@
 ||log*-applog-lq.ixigua.com^
 ||log-verify.mob.com^
 ||log.music.baidu.com^
+||log.qishui.com^
 ||log.snssdk.com^
 ||loje863.cc^
 ||longlingsc.art^
@@ -701,6 +711,7 @@
 ||mobrtb.com^
 ||mobsurl.com^
 ||mon982.vip^
+||monitor.ssp.admobile.top^
 ||moo39829.net^
 ||mpsysd.cn^
 ||mpyisx.cn^
@@ -760,6 +771,7 @@
 ||openrcv.baidu.com^
 ||orzonera.shyingt.asia^
 ||os.23v7m9.cc^
+||oschina.net^
 ||oschina.net^
 ||oss.cdn.adintl.cn^
 ||oway.mobi^
@@ -909,6 +921,7 @@
 ||sgmor.club^
 ||sh.adingo.jp^  
 ||share.baidu.com^
+||shop45920354.m.youzan.com^
 ||shopapi.io.mi.com^
 ||shuinn7.top^
 ||shuzilm.cn^
@@ -993,6 +1006,7 @@
 ||taimei-t336.vip^
 ||taimei-t373.vip^
 ||taimei-t546.vip^
+||tam.cdn-go.cn^
 ||tanan119.com^
 ||tanx.com^
 ||tanx.com^
@@ -1142,6 +1156,7 @@
 ||webcast5-open-lf.douyin.com^
 ||wedbccid.top^
 ||wejianzhan.com^
+||wejianzhan.com^
 ||whoami.akamai.net^
 ||whpnd.cn^
 ||wifwroi.com^
@@ -1252,4 +1267,3 @@
 ||zz.bdstatic.com^
 ||zzhc.vnet.cn^
 ||zztfly.com^
-
