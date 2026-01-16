@@ -159,6 +159,10 @@
 @@||mon.snssdk.com^
 #123云盘跳转放行
 @@||c.umsns.com^
+#豌豆荚软件历史版本界面放行
+@@||arms-retcode.aliyuncs.com^
+@@||img.ucdl.pp.uc.cn^
+@@||s13.cnzz.com^
 
 
 
