@@ -154,5 +154,11 @@
 @@||accounts.taptap.cn^
 #QQ人脸放行
 @@||static-res.qq.com^
+#抖音验证/人脸
+@@||i.snssdk.com^
+@@||mon.snssdk.com^
+#123云盘跳转放行
+@@||c.umsns.com^
+
 
 
