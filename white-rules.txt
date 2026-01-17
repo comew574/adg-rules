@@ -97,7 +97,7 @@
 @@||download.uc.cn^
 @@||novel-api.quark.cn^
 @@||access-open.quark.cn^
-@@||quark.*^
+#@@||quark.*^
 @@||broccoli.uc.cn^
 @@||id-card.yun.cn^
 @@||family-m-api.uc.cn^
