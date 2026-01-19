@@ -26,6 +26,10 @@
 /.*aligames.*/
 /.*tsyouto.*/
 /.*umeng.*/
+#/.*bytegecko.*/
+/.*byte.*/
+/.*ixiguavod.*/
+/.*idouyinvod.*/
 /v96.bdxiguavod.com.cdn.chinamobile.com/
 /(^|\.)(.*)(95|98)\-(.*)\.douyinvod.com/
 /(^|\.)n.shifen.com/
@@ -74,5 +78,5 @@
 /^(vip.huijujiavip|vip.aqdm349|vip.cqtnfs|xcdn.rltdxt|bdxiguaimg)\.com/
 /^(v1|kplayer|da)\.(keepcdn|gotokeep|qiyukf)\.com/
 /^(ndcpp|somamobi|voiceads|dentsuchina|adbiding)\.(com|cn)/
-/ads.*\.ximalaya.com/$important
+/ads.*\.ximalaya.com/
 /^(appupdate|appupdates|bkappad)\.189.cn/
