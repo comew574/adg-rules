@@ -28,8 +28,8 @@
 /.*umeng.*/
 #/.*bytegecko.*/
 /.*byte.*/
-/.*ixiguavod.*/
-/.*idouyinvod.*/
+/.*ixigua.*/
+/.*idouyin.*/
 /v96.bdxiguavod.com.cdn.chinamobile.com/
 /(^|\.)(.*)(95|98)\-(.*)\.douyinvod.com/
 /(^|\.)n.shifen.com/
