@@ -18,7 +18,6 @@
 /(^|\.)(fanqiesdk|baohuaxia|jinritemai|juliangyinqing|chengzijianzhan|chengzijianzhan[a-z]|zhilingxingchen|xingtu|yilucaifu|youdianyisi|shidianguji|oceanengine|bytedcdn|searchpstatp|bytegoofy)\.(com|cn)/
 /^(luna-web|interactive)\.douyin.com/
 /(^|\.|\-)cdn.open-douyin..*/
-/(^|\.)pstatp.com/
 /www\.(baidu|toutiao)\.com/
 /.*ad.wtzw.com.*/
 /.*zijieapi.*/
@@ -30,8 +29,9 @@
 /.*byte.*/
 /.*ixigua.*/
 /.*idouyin.*/
+/.*pstatp.*/
 /v96.bdxiguavod.com.cdn.chinamobile.com/
-/(^|\.)(.*)(95|98)\-(.*)\.douyinvod.com/
+#/(^|\.)(.*)(95|98)\-(.*)\.douyinvod.com/
 /(^|\.)n.shifen.com/
 /(^|\.|\-)(daily|ncdn|ncdn.*).*\.douyinvod.com/
 /^(fonts|gameswhitelisted)\.(gstatic|googleapis)\.com/
