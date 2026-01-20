@@ -25,8 +25,8 @@
 /.*aligames.*/
 /.*tsyouto.*/
 /.*umeng.*/
-#/.*bytegecko.*/
-/.*byte.*/
+/.*bytegecko.*/
+#/.*byte.*/
 /.*ixigua.*/
 /.*idouyin.*/
 /.*pstatp.*/
