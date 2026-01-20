@@ -4,6 +4,8 @@
 @@||dig.bdurl.net^
 #抖➕下载放行
 @@||v*-awememusicpgc.amemv.com^
+@@||api-play.amemv.com^
+@@||v95-bjb-hl-hw-cn-coldy.douyinvod.com^
 
 #快跑官网放行
 @@||*.xn--4oqy37a1na874bjmj.com^
@@ -53,6 +55,8 @@
 @@||ti.qq.com^
 #QQ音乐图片放行
 @@/^y\.(gtimg|qq)\.(cn|com)/
+#快手视频放行(无水印下载)
+@@||txmov2.a.kwimgs.com^
 
 #ssu官方下载放行
 @@||emas-devops-cdn.aliyuncs.com^
