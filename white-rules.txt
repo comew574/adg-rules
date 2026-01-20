@@ -169,6 +169,8 @@
 @@||arms-retcode.aliyuncs.com^
 @@||img.ucdl.pp.uc.cn^
 @@||s13.cnzz.com^
+#猫途鹰图片放行
+@@||dimg04.c-ctrip.com^
 
 
 
