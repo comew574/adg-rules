@@ -11,10 +11,12 @@
 @@||i.snssdk.com^
 @@||mon.snssdk.com^
 #抖音月付
-@@||f-cpay.snssdk.com^$important
+@@||f-cpay.snssdk.com^
 #番茄小说首页放行
 @@||api5-normal-sinfonlinea.fqnovel.com^
 @@/v(\d+)\-novelapp.fqnovelvod.com/
+#汽水音乐放行
+@@||api5-lf.qishui.com^
 #针对豆包APP的误杀放行规则
 @@||log.snssdk.com^
 @@||tnc3-alisc1.snssdk.com^
@@ -25,6 +27,8 @@
 @@||lf-sourcecdn-tos.bytegecko.com^
 @@||lf-dy-sourcecdn-tos.bytegecko.com^
 #@@||*.amemv.com^
+#今日头条
+@@||article.zlink.toutiao.com^
 
 #阿里系
 #淘宝App部分放行'
@@ -86,8 +90,9 @@
 
 #ssu官方下载放行
 @@||emas-devops-cdn.aliyuncs.com^
-#针对搜狗输入法的放行规则
+#搜狗输入法/语音输入放行
 @@||shouji.sogou.com^
+@@||srss.speech.sogou.com^
 #网易云音乐放行
 @@/^(api.look|dun)\.163.com/
 @@||st.music.163.com^
@@ -157,12 +162,12 @@
 @@||fin-ingress-ele.aliyuncs.com^
 
 #消息推送/FCM的放行
-@@/push/
-@@/.*push.*/
+@@||push.*^
+@@||*push.*^
 #针对谷歌商店更新应用的误杀放行
 @@||rr*---sn-*.xn--ngstr-lra8j.com^
 #美团/美团众包放行
-@@/^(ddplus|s3plus|peisongapi|mrn|p0|p1)\.meituan\.(com|net)/
+@@/(ddplus|s3plus|peisongapi|mrn|p0|p1|market.waimai|i.waimai|scapi.waimai|wmapi|s3|promotion.waimai|cactivityapi-sc.waimai)\.meituan\.(com|net)/
 #酷安放行
 @@||tpns.tencent.com^
 @@/^(resolve|cnlogs|errnewlog)\.(umeng|umengcloud)\.com/
