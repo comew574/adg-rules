@@ -37,6 +37,8 @@
 @@||www.iconfont.cn^
 #钉钉办公审批的放行'
 @@||retcode.taobao.com^
+#阿里云盘上传放行
+@@||cn-beijing-data.aliyundrive.net^
 
 #百度系
 #百度贴吧/贴吧lite放行
