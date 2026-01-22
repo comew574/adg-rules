@@ -170,7 +170,11 @@
 @@||img.ucdl.pp.uc.cn^
 @@||s13.cnzz.com^
 #猫途鹰图片放行
-@@||dimg04.c-ctrip.com^
+@@/(contents|accounts|video-preview|pages)\.ctrip\.com/
+@@/(dimg04|webresource|pages|images3)\.c-ctrip\.com/
+@@||map.baidu.com^
+#百度地图语音包/离线地图放行
+@@/(baiqueling|bailingniao2|boscdn)\.baidu\.com/
 
 
 
