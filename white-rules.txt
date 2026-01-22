@@ -10,6 +10,8 @@
 #抖音验证/人脸
 @@||i.snssdk.com^
 @@||mon.snssdk.com^
+#抖音月付
+@@||f-cpay.snssdk.com^$important
 #番茄小说首页放行
 @@||api5-normal-sinfonlinea.fqnovel.com^
 @@/v(\d+)\-novelapp.fqnovelvod.com/
@@ -67,6 +69,8 @@
 #快手短视频
 @@||nebula.kuaishou.com^
 @@||v23-3.kwaicdn.com^
+#快手搜索
+@@||gdfp.gifshow.com^
 
 #小米系列
 #针对小米相册AI编辑的放行规则
@@ -125,7 +129,10 @@
 @@||activity.kugou.com^
 #fly放行(xp模块)
 @@||api.plusne.cn^
-
+#动漫共和国服务器连线
+@@||bkbf.xn--vhqr42drhf5k7b.com^
+#携程人脸
+@@||jr.ctrip.com^$important
 
 #OPPO主题卡片的放行'
 @@||smartcard.apps.coloros.com^
@@ -146,6 +153,9 @@
 @@||grpc.biliapi.net^
 #饿了么APP登录的放行
 @@||ipassport.ele.me^
+#饿了么部分网络异常
+@@||fin-ingress-ele.aliyuncs.com^
+
 #消息推送/FCM的放行
 @@/push/
 @@/.*push.*/
@@ -160,6 +170,9 @@
 @@||shuzilm.cn^
 #蓝奏云相关放行
 @@/lanzou[a-z].com/
+#智己/闪购客服放行'
+@@||link*.yunxinfw.com^
+@@||ai-ecs-alimebot.ele.me^
 
 #未知放行
 @@||acs-m.koubei.com^
