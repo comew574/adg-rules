@@ -83,6 +83,8 @@
 @@||mime.baidu.com^
 
 #腾讯系
+#QQ日签卡图片
+@@||tianshu.gtimg.cn^
 #澎湃更新微信小程序的放行
 @@||fc.kejiweixun.com^
 #伯友茶记小程序放行
