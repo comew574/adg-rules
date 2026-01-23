@@ -14,7 +14,7 @@
 @@||f-cpay.snssdk.com^
 #番茄小说首页放行
 @@||api5-normal-sinfonlinea.fqnovel.com^
-@@/v(\d+)\-novelapp.fqnovelvod.com/
+@@/^v(\d+)\-novelapp.fqnovelvod.com/
 #汽水音乐放行
 @@||api5-lf.qishui.com^
 #豆包APP的误杀放行规则
@@ -47,7 +47,7 @@
 #饿了么的放行<网络异常/功能异常/图片异常>
 @@||fin-ingress-ele.aliyuncs.com^
 @@||arup.m.taobao.com^
-@@/(alsc-cofig|ipassport|mtop)\.ele\.me/
+@@/^(alsc-cofig|ipassport|mtop)\.ele\.me/
 #夸克网盘App的误杀放行规则
 @@||pan.quark.cn^
 @@||download.uc.cn^
@@ -78,7 +78,7 @@
 #百度知道，百科放行
 @@/^(zhidao|baike)\.baidu.com/
 #百度地图语音包/离线地图放行
-@@/(baiqueling|bailingniao2|boscdn)\.baidu\.com/
+@@/^(baiqueling|bailingniao2|boscdn)\.baidu\.com/
 #百度输入法放行
 @@||mime.baidu.com^
 
@@ -95,8 +95,8 @@
 #我的机床小程序的放行
 @@||fsiot.oss-cn-shanghai.aliyuncs.com^
 #九号出行app/小程序的放行
-@@/(api-jhcx-v6-bj|hero|h5-bj)\.ninebot\.com/
-@@/(segway-esc|oss-app-h5)\.oss-cn-beijing\.aliyuncs\.com/
+@@/^(api-jhcx-v6-bj|hero|h5-bj)\.ninebot\.com/
+@@/^(segway-esc|oss-app-h5)\.oss-cn-beijing\.aliyuncs\.com/
 #腾讯软件更新放行
 @@||imtt.dd.qq.com^
 @@||down-update.qq.com^
@@ -155,7 +155,7 @@
 
 #美团系
 #美团/美团众包放行
-@@/(ddplus|s3plus|peisongapi|mrn|p0|p1|market.waimai|i.waimai|scapi.waimai|wmapi|s3|promotion.waimai|cactivityapi-sc.waimai)\.meituan\.(com|net)/
+@@/^(ddplus|s3plus|peisongapi|mrn|p0|p1|market.waimai|i.waimai|scapi.waimai|wmapi|s3|promotion.waimai|cactivityapi-sc.waimai)\.meituan\.(com|net)/
 
 #京东系
 #京东
@@ -171,13 +171,13 @@
 
 #载具相关
 #零跑放行
-@@/(bbcmall|loan-h5|lptestdrive|apptec-invite|lpex-eventtracking|user-growth|feedback|appgateway|vehicleowner)\.leapmotor\.com/
-@@/(bbcmallapi|bbcmall|apptec|lp-resource-pool|carod-center|appuser|app-front-gateway|lpau|lptestdrive|store-center)\.leapmotor\.cn/
-@@/(ueapp|lpmall-dop-prod|cds-prod)\.oss-cn-hangzhou\.aliyuncs\.com/
+@@/^(bbcmall|loan-h5|lptestdrive|apptec-invite|lpex-eventtracking|user-growth|feedback|appgateway|vehicleowner)\.leapmotor\.com/
+@@/^(bbcmallapi|bbcmall|apptec|lp-resource-pool|carod-center|appuser|app-front-gateway|lpau|lptestdrive|store-center)\.leapmotor\.cn/
+@@/^(ueapp|lpmall-dop-prod|cds-prod)\.oss-cn-hangzhou\.aliyuncs\.com/
 @@||smartlink-resources.oss-cn-beijing.aliyuncs.com^
 #东风风神的放行 
-@@/(sapp-ep|fengshen-mp-weixin)\.oss-cn-wuhan-lr\.aliyuncs\.com/
-@@/(fshx-app|fshx-qywx|epai-shop-h5|nami-app)\.oss-cn-beijing\.aliyuncs\.com/
+@@/^(sapp-ep|fengshen-mp-weixin)\.oss-cn-wuhan-lr\.aliyuncs\.com/
+@@/^(fshx-app|fshx-qywx|epai-shop-h5|nami-app)\.oss-cn-beijing\.aliyuncs\.com/
 #小鹏汽车的放行 
 @@||pre-xps01.xiaopeng.com^
 #铁路12306的放行
@@ -185,7 +185,7 @@
 
 
 #魅族应用商店的放行 
-@@/(ys-gdown|ot-gdown|gdown|cover)\.baidu\.com/
+@@/^(ys-gdown|ot-gdown|gdown|cover)\.baidu\.com/
 @@||imtt.dd.qq.com^
 @@||p66-ad.adkwai.com^
 @@||sdk.e.qq.com^
@@ -242,10 +242,10 @@
 #酷安放行
 @@||tpns.tencent.com^
 @@/^(resolve|cnlogs|errnewlog)\.(umeng|umengcloud)\.com/
-@@/auni\.(telecome|unioncom)\.(cn|cc)/
+@@/^auni\.(telecome|unioncom)\.(cn|cc)/
 @@||shuzilm.cn^
 #蓝奏云相关放行
-@@/lanzou[a-z].com/
+@@/^lanzou[a-z].com/
 
 
 #地图类放行
@@ -259,8 +259,8 @@
 @@||img.ucdl.pp.uc.cn^
 @@||s13.cnzz.com^
 #猫途鹰图片放行
-@@/(contents|accounts|video-preview|pages)\.ctrip\.com/
-@@/(dimg04|webresource|pages|images3)\.c-ctrip\.com/
+@@/^(contents|accounts|video-preview|pages)\.ctrip\.com/
+@@/^(dimg04|webresource|pages|images3)\.c-ctrip\.com/
 @@||map.baidu.com^
 #2002电音/dj串烧集放行
 @@/(^|\.)y2-3.com/
@@ -277,7 +277,7 @@
 #学校自动售货机的放行
 @@||colv.app.swirebev.com^
 #学习通的放行
-@@/(loc|api)\.map\.baidu\.com/
+@@/^(loc|api)\.map\.baidu\.com/
 #联想app的放行
 @@||cnloc.map.baidu.com^
 #115的放行
