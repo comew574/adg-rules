@@ -2,7 +2,7 @@
 #抖音放行
 #@@/(^|\.)douyinvod.com/
 #抖音App的放行
-@@||dig.bdurl.net^
+#@@||dig.bdurl.net^
 #抖➕下载放行
 @@||v*-awememusicpgc.amemv.com^
 @@||api-play.amemv.com^
