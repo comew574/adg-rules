@@ -33,7 +33,7 @@
 /v96.bdxiguavod.com.cdn.chinamobile.com/
 #/(^|\.)(.*)(95|98)\-(.*)\.douyinvod.com/
 /(^|\.)n.shifen.com/
-/(^|\.|\-)(daily|ncdn|ncdn.*).*\.douyinvod.com/
+#/(^|\.|\-)(daily|ncdn|ncdn.*).*\.douyinvod.com/
 /^(fonts|gameswhitelisted)\.(gstatic|googleapis)\.com/
 /(^|\.|\-)(ad|ad-.*|ads|ads.*|httpdns)\.(.*)\.[a-z]/
 /^(\d+)\.(com|net|cn|org|xyz)/
@@ -66,7 +66,7 @@
 /(^|\.)(hotjar-analytics|hicloud|unity3d|yahoo|pinterest|reddit|linkedin|bugsnag|freshmarketer|mouseflow|amazon|amazonaws|amazonclix|assoc-amazon).com/
 /^(samsungads|smetrics.samsung|nmetrics.samsung|samsung-com.112.2o7|analytics-api.samsunghealthcn|bigdata.ssp.samsung)\.(com|net)/
 /^(i|dreport|wmlog|data-sdk-uuid-log.d|alita.waimai)\.meituan\.(com|net)/
-/^(tec73|volces)\.com/$important
+/^(tec73|volces)\.com/
 /^(leads|guanceyun|leads.api|news.app|salesleads|mobile.app|adproxy|cdn-recovery|applogapi|c|adm.*)\.autohome.com.cn/
 /^(.*-fileserverpcdn.cdn|hydlpcdn.cdn|fileserverpcdn.cdn|ffilelogapp|e-ad-monitor|hydlpcdn.cdn)\.huya.com/
 /^(goblin|e-goblin)\.hupu.com/
