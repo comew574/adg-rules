@@ -132,7 +132,6 @@
 ||adobe.com^
 ||ads-twitter.com^
 ||ads.pinterest.com^
-||ads.pinterest.com^
 ||adscdn.baidu.com^
 ||adsdk.idmzj.com^
 ||adse.wsa.ximalaya.com^
@@ -159,7 +158,6 @@
 ||ahiae.com^
 ||ahtdqlz.cn^
 ||aiclk.com^
-||aiclk.com^
 ||aidak.hnzkclouds.com^
 ||ailianna.cn^
 ||aishanglight.com^
@@ -182,7 +180,6 @@
 ||anquan.baidu.com^
 ||antivirus.baidu.com^
 ||anws.top^
-||anythinktech.com^
 ||anythinktech.com^
 ||aoao11190iis.top^
 ||aoao11191iis.top^
@@ -266,7 +263,6 @@
 ||bid.g.doubleclick.net^
 ||bingads.microsoft.com^
 ||bingapp.microsoft.com^
-||bingapp.microsoft.com^
 ||birdgesdk.com^
 ||bla.gtimg.com^
 ||black.qimo.ink^
@@ -337,7 +333,6 @@
 ||coelacanth.yingt.fun^
 ||cppe43f35.com^
 ||cpro.baidu.com^
-||cpro.baidustatic.com^
 ||cpro.baidustatic.com^
 ||cpro2.baidustatic.com^
 ||cpwpmql.icu^
@@ -542,7 +537,6 @@
 ||hm.baidu.com^
 ||hmcdn.baidu.com^
 ||hmma.baidu.com^
-||hmma.baidu.com^
 ||holvxfq.com^
 ||homeborn.cn^
 ||hovcu4.top^
@@ -554,7 +548,6 @@
 ||htpwoc488m.xyz^
 ||https://ynuf.aliapp.org/savewb.json?^
 ||httpsdns.baidu.com^
-||hubcloud.com.cn^
 ||hubcloud.com.cn^
 ||huixuanjiasu.com^
 ||hxkyuwr1040.vip^
@@ -584,7 +577,6 @@
 ||instv729.com^
 ||internal-amis-res.cdn.bcebos.com^
 ||irs01.com^
-||irs03.com^
 ||irs03.com^
 ||isaas5-normal-lq.ecombdapi.com^
 ||iskdyfwosnyfyudwwh.vroudb.com^
@@ -731,7 +723,6 @@
 ||mpyisx.cn^
 ||mqwe01w.xyz^
 ||msg.qy.net^
-||msg.qy.net^
 ||msite.baidu.com^
 ||mssp.baidu.com^
 ||mt307.xyz^
@@ -787,7 +778,6 @@
 ||openrcv.baidu.com^
 ||orzonera.shyingt.asia^
 ||os.23v7m9.cc^
-||oschina.net^
 ||oschina.net^
 ||oss.cdn.adintl.cn^
 ||oway.mobi^
@@ -944,7 +934,6 @@
 ||shopapi.io.mi.com^
 ||shuinn7.top^
 ||shuzilm.cn^
-||shuzilm.cn^
 ||sigmob.cn^
 ||sigmob.com^
 ||siomxity.com^
@@ -1027,7 +1016,6 @@
 ||taimei-t546.vip^
 ||tam.cdn-go.cn^
 ||tanan119.com^
-||tanx.com^
 ||tanx.com^
 ||taobao.com^$app=com.shuqi.controller
 ||tap-dsp.iem.taptap.cn^
@@ -1176,7 +1164,6 @@
 ||webcast*-open-lq.douyin.com^
 ||webcast5-open-lf.douyin.com^
 ||wedbccid.top^
-||wejianzhan.com^
 ||wejianzhan.com^
 ||whoami.akamai.net^
 ||whpnd.cn^
