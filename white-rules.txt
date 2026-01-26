@@ -3,6 +3,10 @@
 #@@/(^|\.)douyinvod.com/
 #抖音App的放行
 @@||dig.bdurl.net^
+#多闪视频放行
+@@||lf-webcast-gr-sourcecdn.bytegecko.com^
+@@||*lf.amemv.com^
+@@||lf*-music-east.douyinstatic.com^
 #抖➕下载放行
 @@||v*-awememusicpgc.amemv.com^
 @@||api-play.amemv.com^
