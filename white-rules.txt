@@ -2,7 +2,7 @@
 #抖音放行
 #@@/(^|\.)douyinvod.com/
 #抖音App的放行
-#@@||dig.bdurl.net^
+@@||dig.bdurl.net^
 #抖➕下载放行
 @@||v*-awememusicpgc.amemv.com^
 @@||api-play.amemv.com^
@@ -10,6 +10,9 @@
 #抖音验证/人脸
 @@||i.snssdk.com^
 @@||mon.snssdk.com^
+#抖音功能异常放行
+@@||fe.amemv.com^
+@@||mon.zijieapi.com^
 #抖音月付
 @@||f-cpay.snssdk.com^
 #番茄小说首页放行
