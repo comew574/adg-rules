@@ -7,6 +7,10 @@
 @@||v*-awememusicpgc.amemv.com^
 @@||api-play.amemv.com^
 @@||v95-bjb-hl-hw-cn-coldy.douyinvod.com^
+@@||v5-se-qn-daily-cm.douyinvod.com^
+@@||*.vegslb.com^
+@@||*.z.cjjd14.com^
+@@||*.ahdohpiechei.com^
 #抖音验证/人脸
 @@||i.snssdk.com^
 @@||mon.snssdk.com^
