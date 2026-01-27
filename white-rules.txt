@@ -299,3 +299,5 @@
 @@||mallapi2.qinlinkeji.com^
 #慢慢买比价的放行
 @@||cf.aliyun.com^
+#12306人脸验证放行
+@@||cloudauth.cn-beijing.aliyuncs.com^
