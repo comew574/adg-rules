@@ -260,7 +260,7 @@
 
 
 #地图类放行
-@@||*.amap.*^
+#@@||*.amap.*^
 #Taptap登录放行
 @@||accounts.taptap.cn^
 #123云盘跳转放行
