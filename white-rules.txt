@@ -92,7 +92,7 @@
 @@/^(baiqueling|bailingniao2|boscdn)\.baidu\.com/
 #百度输入法放行
 @@||mime.baidu.com^
-@@/(baiqueling|bailingniao2|boscdn|hotel|didian|carowner|mbd|passport|map-bizcenter|zt|mapglobal|yongche|bdbus-turbonet|ossapi|minipro|oil|parking|openapi|opn)\.baidu\.com/
+@@/(baiqueling|bailingniao2|boscdn|hotel|didian|carowner|mbd|passport|map-bizcenter|zt|mapglobal|yongche|bdbus-turbonet|ossapi|minipro|oil|parking|openapi|opn|quanjing|appnavi)\.baidu\.com/
 @@/(bj|su|gz)\.bcebos\.com/
 @@||low-frequency-vertical-industry.bj.bcebos.com^
 
