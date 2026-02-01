@@ -77,6 +77,6 @@
 /^(log-upload-v6|h5log-api-dualstack|bbs-static|ad-log-upload)\.mihoyo.com/
 /^(vip.huijujiavip|vip.aqdm349|vip.cqtnfs|xcdn.rltdxt|bdxiguaimg)\.com/
 /^(v1|kplayer|da)\.(keepcdn|gotokeep|qiyukf)\.com/
-/^(ndcpp|somamobi|voiceads|dentsuchina|adbiding)\.(com|cn)/
+/(^|\.)(ndcpp|somamobi|voiceads|dentsuchina|adbiding)\.(com|cn)/
 /ads.*\.ximalaya.com/
 /^(appupdate|appupdates|bkappad)\.189.cn/
