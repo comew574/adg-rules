@@ -199,10 +199,10 @@
 
 
 #魅族应用商店的放行 
-@@/^(ys-gdown|ot-gdown|gdown|cover)\.baidu\.com/
-@@||imtt.dd.qq.com^
-@@||p66-ad.adkwai.com^
-@@||sdk.e.qq.com^
+#@@/^(ys-gdown|ot-gdown|gdown|cover)\.baidu\.com/
+#@@||imtt.dd.qq.com^
+#@@||p66-ad.adkwai.com^
+#@@||sdk.e.qq.com^
 #ssu官方下载放行
 @@||emas-devops-cdn.aliyuncs.com^
 #搜狗输入法/语音输入放行
