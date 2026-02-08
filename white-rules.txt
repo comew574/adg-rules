@@ -304,3 +304,5 @@
 @@||cf.aliyun.com^
 #12306人脸验证放行
 @@||cloudauth.cn-beijing.aliyuncs.com^
+#videowatermarkremover上传放行
+@@||pai-data-5f568.oss-us-west-1.aliyuncs.com^
