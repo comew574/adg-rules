@@ -27,7 +27,7 @@
 @@||api5-normal-sinfonlinea.fqnovel.com^
 @@/^v(\d+)\-novelapp.fqnovelvod.com/
 #汽水音乐放行
-@@||api5-lf.qishui.com^
+#@@||api5-lf.qishui.com^
 #豆包APP的误杀放行规则
 @@||log.snssdk.com^
 @@||tnc3-alisc1.snssdk.com^
