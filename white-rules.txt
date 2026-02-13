@@ -167,6 +167,8 @@
 @@||api.sec.miui.com^
 #小米推送(mipush)
 @@||cn.app.chat.xiaomi.net^
+#小米相册检查更新
+@@||api.developer.xiaomi.com^
 
 #网易系
 #网易云音乐放行
