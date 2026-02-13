@@ -132,7 +132,7 @@
 #腾讯地图
 @@||snowflake.qq.com^
 #QQ群公告放行
-@@/^qun.qq.com/
+@@/(^|\.)qun.qq.com/
 @@||ti.qq.com^
 #QQ人脸放行
 @@||static-res.qq.com^
