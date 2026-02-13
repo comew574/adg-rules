@@ -23,6 +23,14 @@
 @@||mon.zijieapi.com^
 #抖音月付
 @@||f-cpay.snssdk.com^
+#抖音聊天表情/小宠物喂食放行
+@@||api*-*.amemv.com^
+@@||search*-search-*.amemv.com^
+@@||sf*-sign.douyinstatic.com^
+@@||lf-*.bytegecko.com^
+@@||stark-gate.zijieapi.com^
+@@||minigame*-*.zijieapi.com^
+@@||lf*-*.bytednsdoc.com^
 #番茄小说首页放行
 @@||api5-normal-sinfonlinea.fqnovel.com^
 @@/^v(\d+)\-novelapp.fqnovelvod.com/
