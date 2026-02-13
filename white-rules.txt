@@ -204,6 +204,8 @@
 @@||pre-xps01.xiaopeng.com^
 #铁路12306的放行
 @@||mgw.mpaas.cn-hangzhou.aliyuncs.com^
+#12306人脸验证放行
+@@||cloudauth.cn-beijing.aliyuncs.com^
 
 
 #魅族应用商店的放行 
@@ -285,7 +287,6 @@
 @@/^(dimg04|webresource|pages|images3)\.c-ctrip\.com/
 @@||map.baidu.com^
 #2002电音/dj串烧集放行
-@@/(^|\.)y2-3.com/
 @@/(^|\.)(yy-5|y2-3|qq190)\.(net|com)/
 #公主连结的放行 
 @@||l1-prod-patch-gzlj.bilibiligame.net^  
@@ -310,7 +311,5 @@
 @@||mallapi2.qinlinkeji.com^
 #慢慢买比价的放行
 @@||cf.aliyun.com^
-#12306人脸验证放行
-@@||cloudauth.cn-beijing.aliyuncs.com^
 #videowatermarkremover上传放行
 @@||pai-data-5f568.oss-us-west-1.aliyuncs.com^
