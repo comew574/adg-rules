@@ -1247,6 +1247,10 @@ d3ward.github.io##.textads
 ||tr.snapchat.com^
 ||tr6.snapchat.com^
 
+#午夜AV
+||s1-a1.global-cdn.me^
+||pptstatic.wyav.tv^
+
 #腾讯视频
 ||acc.qq.com^
 #腾讯视频片头广告，已知8.5~8.9版本安装完APP头三次打开APP播放不了视频，关掉再开，重复几次就好了；7.5.0和定制版8.6没网，需要移除本条，移除后7.5也不会有片头广告；9.0.X去片头后其它正常。
