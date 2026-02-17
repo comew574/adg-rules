@@ -1003,7 +1003,10 @@
 /www\.(baidu|toutiao)\.com/
 ||v3-*.bdxiguavod.com^
 
-
+||media-show.wanzi.com^
+||apd-vodp2plogin.teg.tencent-cloud.net^
+||apd-pcdnvodstat.teg.tencent-cloud.net^
+||webcast5-open-hl.douyin.com^
 
 ||dm.toutiao.com^
 ||log.snssdk.com^
