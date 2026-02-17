@@ -15,6 +15,7 @@
 @@||*.vegslb.com^
 @@||*.z.cjjd14.com^
 @@||*.ahdohpiechei.com^
+@@||*.idouyinvod.com^
 #抖音验证/人脸
 @@||i.snssdk.com^
 @@||mon.snssdk.com^
