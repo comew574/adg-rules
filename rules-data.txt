@@ -1056,7 +1056,7 @@ d3ward.github.io##.textads
 ||v*-default.*.com^
 ||vdefault-*.*.com^
 
-
+/localdns/
 ||111.7.88.216^
 ||183.204.70.217^
 ||39.136.167.93^
