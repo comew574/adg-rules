@@ -1007,6 +1007,9 @@
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||webcast5-open-hl.douyin.com^
+||sdk*.data.*.com^
+||*-*sdk.*.*^
+/(^|\.|\-)(ad|sdk).*.[a-z]/
 
 ||dm.toutiao.com^
 ||log.snssdk.com^
