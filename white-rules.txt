@@ -292,8 +292,14 @@
 #2002电音/dj串烧集放行
 @@/(^|\.)(yy-5|y2-3|qq190)\.(net|com)/
 #公主连结的放行 
-@@||l1-prod-patch-gzlj.bilibiligame.net^  
-
+@@||l1-prod-patch-gzlj.bilibiligame.net^
+#康师傅小程序的放行规则
+@@/(ksf-classicsp|ksf-zhuama|ksffqsp|ksf-mfa)\.oss-cn-beijing\.aliyuncs\.com/
+#好想来小程序的放行规则
+@@||prod--retail-new--oss.oss-cn-hangzhou.aliyuncs.com^
+@@||s4-cs-pub-std.kefutoutiao.com^
+@@||hxl-erp-image-dev.oss-cn-hangzhou.aliyuncs.com^
+@@||icc-prod.oss-accelerate.aliyuncs.com^
 
 
 #荣耀设备相关的放行
