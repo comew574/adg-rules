@@ -1041,13 +1041,20 @@ adblock.turtlecute.org##.adbox.banner_ads.adsbox
 d3ward.github.io##.textads
 
 #西瓜视频
-||log*-applog-lq.ixigua.com^
+#正则规则
+/^(v1|v3|v6)\-xg-3p.ixigua.com/
+/^(v3|v5|v9)\-3p.bdxiguavod.com/
+/^(orzonera|hatchetfish|arapaima|coelacanth|sturgeon|hagfish)\.yingt.fun/
+/^(ctt-er|aidak)\.hnzkclouds.com/
+/v96.bdxiguavod.com.cdn.chinamobile.com/
+/localdns/
+
+#普通规则
 ||smtcdns.com^
-||aidak.hnzkclouds.com^
+||v6-xg-3p.bytecdn.cn^
+||v6-3p.bdxiguavod.com^
 ||*.ldhy.click^
 ||lf*-*sdk-sign.dailygn.com^
-/v96.bdxiguavod.com.cdn.chinamobile.com/
-
 ||*/api/ad/*^
 ||*/ug/ad/*^
 ||*/ad/*^
@@ -1062,13 +1069,11 @@ d3ward.github.io##.textads
 ||v*-default.*.com^
 ||vdefault-*.*.com^
 
-/localdns/
 ||111.7.88.216^
 ||183.204.70.217^
 ||39.136.167.93^
 ||assets.immersivetranslate.cn^
 ||vc-mirror.ndcpp.com^
-||coelacanth.yingt.fun^
 ||orzonera.shyingt.asia^
 ||webcast5-open-lf.douyin.com^
 ||hinetddns1.aikunapp.com^
