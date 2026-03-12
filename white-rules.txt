@@ -176,7 +176,7 @@
 @@/^(api.look|dun)\.163.com/
 @@||st.music.163.com^
 #网易游戏放行
-@@||toblog.ctobsnssdk.com^
+#@@||toblog.ctobsnssdk.com^
 
 #美团系
 #美团/美团众包放行
