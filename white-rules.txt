@@ -242,6 +242,8 @@
 @@||bkbf.xn--vhqr42drhf5k7b.com^
 #携程人脸
 @@||jr.ctrip.com^
+#BOSS招聘
+@@||m.zhipin.com^
 
 #OPPO主题卡片的放行
 @@||smartcard.apps.coloros.com^
