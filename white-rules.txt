@@ -242,8 +242,18 @@
 @@||bkbf.xn--vhqr42drhf5k7b.com^
 #携程人脸
 @@||jr.ctrip.com^
-#BOSS招聘
-@@||m.zhipin.com^
+#Boss直聘
+@@||zhipin.com^$important
+#e城e家
+@@||em-prod-b1.oss-cn-beijing.aliyuncs.com^
+@@||cdn.adtidy.org^
+@@||email-link.adtidy.org^
+#淘宝
+@@||shouqu.oss-cn-shanghai.aliyuncs.com^
+#美物清单
+@@||help.meiwulist.com^
+#美团
+@@||i.meituan.com^
 
 #OPPO主题卡片的放行
 @@||smartcard.apps.coloros.com^
