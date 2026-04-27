@@ -1086,6 +1086,17 @@ d3ward.github.io##.textads
 ||ixigua.com^
 ||*-lq.snssdk.com^
 
+#汽水音乐广告
+||adbiding.com^
+||meta.pinduoduo.com^
+||apm-a.pinduoduo.com^
+||dentsuchina.cn^
+||voiceads.cn^
+||v.smtcdns.com^
+||somamobi.com^
+||ndcpp.com^
+
+
 #京东存储和图片提供
 ||img1.360buyimg.com^
 ||ali-stats.jpush.cn^
