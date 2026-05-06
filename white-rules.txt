@@ -94,7 +94,7 @@
 
 #百度系
 #百度贴吧/贴吧lite放行
-@@/^(img.*|tiebapic|tieba|wappass|tiebac|tb.himg|sofire)\.baidu.com/
+@@/^(img.*|tiebapic|tieba|wappass|tiebac|tb.himg|sofire|pan)\.baidu.com/
 #百度知道，百科放行
 @@/^(zhidao|baike)\.baidu.com/
 #百度地图语音包/离线地图放行
