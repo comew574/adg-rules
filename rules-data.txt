@@ -49,7 +49,7 @@
 #百度相关拦截
 ||update.123juzi.net^
 ||update.pan.n.shifen.com^
-/(^|\.)baidu\.[a-z]/
+#/(^|\.)baidu\.[a-z]/
 /(^|\.)(cdn|bj)\.bcebos.com/
 /^(su|pups|ecma|ecmb)\.bdimg.com/
 /^(ae|s|nspt|fex|dss2|dss0|zz|su|mipcache|pic.rmb)\.bdstatic.com/
