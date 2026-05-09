@@ -22,6 +22,8 @@
 #抖音功能异常放行
 @@||fe.amemv.com^
 @@||mon.zijieapi.com^
+#抖音橱窗
+@@||ecombdapi.com^
 #抖音月付
 @@||f-cpay.snssdk.com^
 #抖音聊天表情/小宠物喂食放行
@@ -106,6 +108,8 @@
 @@||low-frequency-vertical-industry.bj.bcebos.com^
 
 #腾讯系
+#微信公众号评论区头像
+@@||wxaintpcos.wxqcloud.qq.com.cn^
 #QQ日签卡图片
 @@||tianshu.gtimg.cn^
 #澎湃更新微信小程序的放行
@@ -210,6 +214,17 @@
 #12306人脸验证放行
 @@||cloudauth.cn-beijing.aliyuncs.com^
 
+
+#秘塔AI
+@@||metaso.cn^
+#妖火图片
+@@||gd.53kf.com^
+#宅易印小程序打印服务
+@@||admin.ynetcom.cn^
+#饿了么图片
+@@||lpd-cs-delivery-ext-shprod-al-oss-1.oss-cn-shanghai.aliyuncs.com^
+#硅基流动网页图片
+@@||sf-maas-uat-prod.oss-cn-shanghai.aliyuncs.com^
 
 #魅族应用商店的放行 
 #@@/^(ys-gdown|ot-gdown|gdown|cover)\.baidu\.com/
