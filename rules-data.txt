@@ -116,14 +116,9 @@
 ||ssp-landing.taptap.cn^
 ||site.u-mob.cn^
 ||pages.goofish.com^
-||www.quark.cn^
-||h5.ele.me^
 /(^|\.)xycdn.com/
-||nstool.laiqukankan.com^
-||nstool.zhuanzfx.com^
+/^nstool\.(laiqukankan|zhuanzfx)\.com/
 ||qiezibenpao.com^
-#屏蔽国家反诈中心及其相关域名
-||g*fzpt.cn^
 #微博客户端广告
 /^(sdkapp.uve|bootpreload.uve|dp.im|adimg.uve|m)\.weibo\.(com|cn)/
 ||down.apps.sina.cn^
