@@ -243,9 +243,9 @@
 @@||p*-flow-download-sign.byteimg.com^
 #妖火帖子图片
 @@||m.360buyimg.com^
-@@||oss-chat-bucket.oss-cn-beijing.aliyuncs.com^
-#妖火图片
+@@||cn.atoilgas.com^
 @@||gd.53kf.com^
+@@||oss-chat-bucket.oss-cn-beijing.aliyuncs.com^
 #KiMiAPP的误杀放行规则
 @@||prod-chat-kimi.tos-cn-beijing.volces.com^
 #点杀泰坦国际服放行
