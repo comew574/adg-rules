@@ -16,6 +16,7 @@
 @@||*.z.cjjd14.com^
 @@||*.ahdohpiechei.com^
 @@||*.idouyinvod.com^
+@@||aeel2mtviavjsfpifs4wvgadtris6yeoaw6uu7gemq888888.0kkkkkt.com^
 #抖音验证/人脸
 @@||i.snssdk.com^
 @@||mon.snssdk.com^
@@ -96,7 +97,8 @@
 
 #百度系
 #百度贴吧/贴吧lite放行
-@@/^(img.*|tiebapic|tieba|wappass|tiebac|tb.himg|sofire|pan)\.baidu.com/
+@@/^(img.*|tiebapic|tieba|c.tieba|wappass|tiebac|tb.himg|sofire|pan)\.baidu.com/
+@@||www.tieba.com^
 #百度知道，百科放行
 @@/^(zhidao|baike)\.baidu.com/
 #百度地图语音包/离线地图放行
@@ -106,8 +108,12 @@
 @@/(baiqueling|bailingniao2|boscdn|hotel|didian|carowner|mbd|passport|map-bizcenter|zt|mapglobal|yongche|bdbus-turbonet|ossapi|minipro|oil|parking|openapi|opn|quanjing|appnavi)\.baidu\.com/
 @@/(bj|su|gz)\.bcebos\.com/
 @@||low-frequency-vertical-industry.bj.bcebos.com^
+#爱奇艺放行
+@@/^(www|m)\.iqiyi\.com/
 
 #腾讯系
+#QQ
+@@||shiply-adelie.shiply-cdn.qq.com^
 #微信公众号评论区头像
 @@||wxaintpcos.wxqcloud.qq.com.cn^
 #QQ日签卡图片
@@ -142,6 +148,15 @@
 @@||alittle-tea.oss-cn-shanghai.aliyuncs.com^
 #徐小包奶茶小程序的放行
 @@||acs-m.koubei.com^
+#微信小程序蜜雪冰城
+@@||mxsa.mxbc.net^
+#康师傅小程序的放行规则
+@@/(ksf-classicsp|ksf-zhuama|ksffqsp|ksf-mfa)\.oss-cn-beijing\.aliyuncs\.com/
+#好想来小程序的放行规则
+@@||prod--retail-new--oss.oss-cn-hangzhou.aliyuncs.com^
+@@||s4-cs-pub-std.kefutoutiao.com^
+@@||hxl-erp-image-dev.oss-cn-hangzhou.aliyuncs.com^
+@@||icc-prod.oss-accelerate.aliyuncs.com^
 #腾讯地图
 @@||snowflake.qq.com^
 #QQ群公告放行
@@ -197,6 +212,8 @@
 @@||s1.hdslb.com^
 #第三方哔哩哔哩的放行
 @@||upos-*^
+#小游戏
+@@||passport.biligame.com^
 
 #载具相关
 #零跑放行
@@ -321,13 +338,6 @@
 @@/(^|\.)(yy-5|y2-3|qq190)\.(net|com)/
 #公主连结的放行 
 @@||l1-prod-patch-gzlj.bilibiligame.net^
-#康师傅小程序的放行规则
-@@/(ksf-classicsp|ksf-zhuama|ksffqsp|ksf-mfa)\.oss-cn-beijing\.aliyuncs\.com/
-#好想来小程序的放行规则
-@@||prod--retail-new--oss.oss-cn-hangzhou.aliyuncs.com^
-@@||s4-cs-pub-std.kefutoutiao.com^
-@@||hxl-erp-image-dev.oss-cn-hangzhou.aliyuncs.com^
-@@||icc-prod.oss-accelerate.aliyuncs.com^
 
 
 #荣耀设备相关的放行
@@ -350,3 +360,7 @@
 @@||cf.aliyun.com^
 #videowatermarkremover上传放行
 @@||pai-data-5f568.oss-us-west-1.aliyuncs.com^
+#去文字图片上传
+@@||shoppic-en-biku.oss-cn-qingdao.aliyuncs.com^
+#宗师之上
+@@||account-api.lingxigames.com^
