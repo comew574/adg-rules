@@ -16,7 +16,7 @@
 @@||*.z.cjjd14.com^
 @@||*.ahdohpiechei.com^
 @@||*.idouyinvod.com^
-@@||aeel2mtviavjsfpifs4wvgadtris6yeoaw6uu7gemq888888.0kkkkkt.com^
+@@||*.0kkkkkt.com^
 #抖音验证/人脸
 @@||i.snssdk.com^
 @@||mon.snssdk.com^
