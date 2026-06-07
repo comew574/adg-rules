@@ -49,8 +49,6 @@
 #百度相关拦截
 ||update.123juzi.net^
 ||update.pan.n.shifen.com^
-#/(^|\.)baidu\.[a-z]/
-#/(^|\.)(cdn|bj)\.bcebos.com/
 /^(su|pups|ecma|ecmb)\.bdimg.com/
 /^(ae|s|nspt|fex|dss2|dss0|zz|su|mipcache|pic.rmb)\.bdstatic.com/
 /^(img|img01)\.taotaosou.cn/
@@ -1005,7 +1003,7 @@
 ||webcast5-open-hl.douyin.com^
 ||sdk*.data.*.com^
 ||*-*sdk.*.*^
-/(^|\.|\-)(ad|sdk).*.[a-z]/
+#/(^|\.|\-)(ad|sdk).*.[a-z]/
 
 ||dm.toutiao.com^
 ||log.snssdk.com^
@@ -1015,22 +1013,6 @@
 ||video-dsp.pddpic.com^
 ||aiclk.com^
 ||hubcloud.com.cn^
-#通杀规则
-#/.*adservice.*/
-#/.*pglstatp.*/
-#/.*byteorge.*/
-#/.*bytegoofy.*/
-#/.*bytedance.*/
-#/.*ad-sign.*/
-#/.*mgsdk-sign.*/
-#/.*pangolin.*/
-#/.*adsmind.*/
-#/.*ad.wtzw.com.*/
-#/.*zijieapi.*/
-#/.*ibytedapm.*/
-#/.*aligames.*/
-#/.*tsyouto.*/
-#/.*umeng.*/
 ||*/pagead.js$domain=adblock.turtlecute.org
 ||*/widget/ads.js^
 adblock.turtlecute.org##.adbox.banner_ads.adsbox
