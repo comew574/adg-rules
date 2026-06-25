@@ -996,7 +996,10 @@
 ||pull*.bytecdn.cn^
 /www\.(baidu|toutiao)\.com/
 ||v3-*.bdxiguavod.com^
-
+||api.jr.airstarfinance.net^
+||*.qrstuvwxyzab.com^
+||*-lite-wha.douyinvod.com^
+||v*-litea.douyinvod.com^
 ||media-show.wanzi.com^
 ||apd-vodp2plogin.teg.tencent-cloud.net^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
@@ -1046,7 +1049,6 @@ d3ward.github.io##.textads
 ||pull-*.douyin.com^
 ||v*-default.*.com^
 ||vdefault-*.*.com^
-
 ||111.7.88.216^
 ||183.204.70.217^
 ||39.136.167.93^
@@ -1122,6 +1124,15 @@ d3ward.github.io##.textads
 ||gm.mmstat.com^$app=com.shuqi.controller
 ||t7z.cupid.iqiyi.com^
 ||uc.cn^$app=com.shuqi.controller
+
+
+#下厨房
+/^(track|trackbeat)\.xiachufang.com
+#Hanime1.me
+||video.saawsedge.com^$important
+||media-hls.growcdnssedge.com^$important
+||go.mayzaent.com^$important
+||ck.juicyads.com^$important
 
 
 #微软广告
