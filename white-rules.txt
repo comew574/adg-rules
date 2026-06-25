@@ -72,11 +72,10 @@
 @@||arup.m.taobao.com^
 @@/^(alsc-cofig|ipassport|mtop)\.ele\.me/
 #夸克网盘App的误杀放行规则
-@@||pan.quark.cn^
+@@||*.quark.cn^
 @@||download.uc.cn^
 @@||novel-api.quark.cn^
 @@||access-open.quark.cn^
-#@@||quark.*^
 @@||broccoli.uc.cn^
 @@||id-card.yun.cn^
 @@||family-m-api.uc.cn^
@@ -199,7 +198,8 @@
 
 #美团系
 #美团/美团众包放行
-@@/^(ddplus|s3plus|peisongapi|mrn|p0|p1|market.waimai|i.waimai|scapi.waimai|wmapi|s3|promotion.waimai|cactivityapi-sc.waimai)\.meituan\.(com|net)/
+@@/^(i|ddplus|s3plus|peisongapi|mrn|p0|p1|market.waimai|i.waimai|scapi.waimai|wmapi|s3|promotion.waimai|cactivityapi-sc.waimai)\.meituan\.(com|net)/
+
 
 #京东系
 #京东
@@ -230,6 +230,12 @@
 @@||mgw.mpaas.cn-hangzhou.aliyuncs.com^
 #12306人脸验证放行
 @@||cloudauth.cn-beijing.aliyuncs.com^
+
+#游戏系列
+#公主连结的放行 
+@@||l1-prod-patch-gzlj.bilibiligame.net^
+#宗师之上
+@@||account-api.lingxigames.com^
 
 
 #秘塔AI
@@ -263,12 +269,18 @@
 @@||cn.atoilgas.com^
 @@||gd.53kf.com^
 @@||oss-chat-bucket.oss-cn-beijing.aliyuncs.com^
+@@||cac.opple.com^
+@@||amzn-bucket-ns9.s3.ap-east-1.amazonaws.com^
+@@||cms-data-traffic.oss-cn-zhangjiakou.aliyuncs.com^
+@@||shoppic-en-biku.oss-cn-qingdao.aliyuncs.com^
+#麦萌短剧
+@@||adash-emas.cn-hangzhou.aliyuncs.com^
+@@||appsecapi.youmanvideo.com^
+
 #KiMiAPP的误杀放行规则
 @@||prod-chat-kimi.tos-cn-beijing.volces.com^
 #点杀泰坦国际服放行
 @@/^s3.amazonaws.com/
-#酷狗/酷狗概念版分享一起听
-@@||activity.kugou.com^
 #fly放行(xp模块)
 @@||api.plusne.cn^
 #动漫共和国服务器连线
@@ -285,8 +297,6 @@
 @@||shouqu.oss-cn-shanghai.aliyuncs.com^
 #美物清单
 @@||help.meiwulist.com^
-#美团
-@@||i.meituan.com^
 
 #OPPO主题卡片的放行
 @@||smartcard.apps.coloros.com^
@@ -299,8 +309,6 @@
 #有毒小说/独阅读放行
 @@||alioss.youdubook.com^
 @@||app.cddaoyue.cn^
-#快跑官网放行
-@@||*.xn--4oqy37a1na874bjmj.com^
 #AppleMusic的放行
 @@||itunes.apple.com^
 @@||xp.apple.com^
@@ -336,10 +344,9 @@
 @@||map.baidu.com^
 #2002电音/dj串烧集放行
 @@/(^|\.)(yy-5|y2-3|qq190)\.(net|com)/
-#公主连结的放行 
-@@||l1-prod-patch-gzlj.bilibiligame.net^
 
-
+#Dako相机
+@@||oss.yindoka.com^
 #荣耀设备相关的放行
 @@||cloud.hihonor.com^
 #kimi的放行
@@ -362,5 +369,3 @@
 @@||pai-data-5f568.oss-us-west-1.aliyuncs.com^
 #去文字图片上传
 @@||shoppic-en-biku.oss-cn-qingdao.aliyuncs.com^
-#宗师之上
-@@||account-api.lingxigames.com^
