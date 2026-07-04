@@ -992,7 +992,6 @@
 ||tnc*-alisc*.zijieapi.com^
 ||aweme.snssdk.com^
 ||frontier-aweme.snssdk.com^
-||dig.bdurl.net^
 ||pull*.bytecdn.cn^
 /www\.(baidu|toutiao)\.com/
 ||v3-*.bdxiguavod.com^
@@ -1007,6 +1006,13 @@
 ||sdk*.data.*.com^
 ||*-*sdk.*.*^
 #/(^|\.|\-)(ad|sdk).*.[a-z]/
+||scalpel-perf.zijieapi.com^
+||ma.zijieapi.com^
+||crash.snssdk.com^
+||log.snssdk.com^$domain=com.ss.android.article.video
+||mon.zijieapi.com^
+||p3-ecop-imagex.byteimg.com^
+
 
 ||dm.toutiao.com^
 ||log.snssdk.com^
