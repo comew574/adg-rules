@@ -783,7 +783,6 @@
 ||cjjd14.com^
 
 
-##以下搬运(广告联盟)↓
 #多盟广告
 ||domob.com^
 ||domob.cn^
@@ -793,7 +792,7 @@
 ||dmpan.com^
 #悠易广告
 ||yoyi.com.cn^
-#mmstart(阿里广告追踪)
+#阿里巴巴-mmstart
 ||mmstart.com^
 #阿里巴巴-tanx
 ||tanx.com^
@@ -962,12 +961,6 @@
 ||*.ks-live.com^
 ||*.uc.cn^
 ||sdk.e.qq.com^
-
-
-
-
-
-
 #杂项
 /^ad\.(.*)\.[a-z]/
 
@@ -1067,8 +1060,6 @@
 ||log.snssdk.com^$domain=com.ss.android.article.video
 ||mon.zijieapi.com^
 ||p3-ecop-imagex.byteimg.com^
-
-
 ||dm.toutiao.com^
 ||log.snssdk.com^
 ||anythinktech.com^
@@ -1083,15 +1074,12 @@ adblock.turtlecute.org##.adbox.banner_ads.adsbox
 d3ward.github.io##.textads
 
 #西瓜视频
-#正则规则
 /^(v1|v3|v6)\-xg-3p.ixigua.com/
 /^(v3|v5|v9)\-3p.bdxiguavod.com/
 /^(orzonera|hatchetfish|arapaima|coelacanth|sturgeon|hagfish)\.yingt.fun/
 /^(ctt-er|aidak)\.hnzkclouds.com/
 /v96.bdxiguavod.com.cdn.chinamobile.com/
 /localdns/
-
-#普通规则
 ||smtcdns.com^
 ||v6-xg-3p.bytecdn.cn^
 ||v6-3p.bdxiguavod.com^
@@ -1213,7 +1201,6 @@ d3ward.github.io##.textads
 ||bingapp.microsoft.com^
 
 #谷歌广告
-#/^analytics.*.[a-z]/ 误杀一些应用的一起看，一起听相关
 ||googleadsserving.cn^
 ||adservice.google.*^
 ||crashlytics.com^
@@ -1278,7 +1265,7 @@ d3ward.github.io##.textads
 ||m.doubleclick.net^
 ||s0.doubleclick.net^
 
-#油管推脸书P站
+#油管推脸书
 ||facebook.com^$domain=~facebook.com.good
 ||fcmatch.youtube.com^
 ||an.facebook.com^
@@ -1290,7 +1277,7 @@ d3ward.github.io##.textads
 ||open-pixon.ads-pixiv.net^
 ||d.pixiv.org^
 ||sh.adingo.jp^  
-#↓P站
+#P站
 ||dex.advg.jp^
 ||y.one.impact-ad.jp^
 ||js.mtburn.com^
@@ -1326,9 +1313,7 @@ d3ward.github.io##.textads
 
 #腾讯视频
 ||acc.qq.com^
-#腾讯视频片头广告，已知8.5~8.9版本安装完APP头三次打开APP播放不了视频，关掉再开，重复几次就好了；7.5.0和定制版8.6没网，需要移除本条，移除后7.5也不会有片头广告；9.0.X去片头后其它正常。
 ||vv6.video.qq.com^
-#腾讯视频9.0之后的开屏广告
 ||bla.gtimg.com^
 ||ra.gtimg.com^
 ||adsrich.qq.com^
@@ -1345,5 +1330,5 @@ d3ward.github.io##.textads
 ||xsweb.gdt.qq.com^
 #QQ阅读抓出
 ||isrpt-vn.gdt.qq.com^
-#欢乐麻将弹窗广告。两个都能单独屏蔽抽奖的弹窗广告(活动领奖励的弹窗未屏蔽)，第二个看起来还有别家用可能会误杀，好像是游戏资源下载
+#欢乐麻将
 ||hlmj.broker.tplay.qq.com^
