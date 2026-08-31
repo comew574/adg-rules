@@ -1,4 +1,4 @@
-/^(mdpfilebssdlbig|gatewayretry|h5|h5retry|voowebpbssdl|gateway)\.kugou.com/
+/^(mdpfilebssdlbig|gatewayretry|voowebpbssdl|gateway)\.kugou.com/
 /^(gad|mvads|adservice|activity|ads.bssdl|adserviceretry)\.(kglink|kugou)\.(cn|com)/
 /(^|\.)inter.\d{2}edge.com/
 /^(cdn.smartimg|atrace|logs|web|pic1|image3)\.chelaile.net.cn/
