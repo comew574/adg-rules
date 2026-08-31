@@ -251,7 +251,7 @@
 ||zzhc.vnet.cn^
 #酷狗
 /^(gad|mvads|adservice|activity|ads.bssdl|adserviceretry)\.(kglink|kugou)\.(cn|com)/
-/^(mdpfilebssdlbig|gatewayretry|h5|h5retry|voowebpbssdl|gateway)\.kugou.com/
+/^(mdpfilebssdlbig|gatewayretry|voowebpbssdl|gateway)\.kugou.com/
 /^(report|api)\.tencentmusic.com/
 /^(tmead|tmeadcomm)\.y.qq.com
 #联盟网络
