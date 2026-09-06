@@ -77,3 +77,6 @@
 ||static.dns.qiyipic.iqiyi.com^
 ||v6-data.video.dns.iqiyi.com^
 ||union-httpdns.gslb.yy.com^
+
+#IPV4_DNS
+||119.29.29.88^
