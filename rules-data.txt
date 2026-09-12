@@ -1124,7 +1124,6 @@
 ||p*-ad-sign.byteimg.com^
 ||pitaya.bytedance.com^
 ||pull*.bytecdn.cn^
-||reading.snssdk.com^
 ||rtlog*-applog-hl.fqnovel.com^
 ||saveu5-normal-lq.zijieapi.com^
 ||sdk*.data.*.com^
