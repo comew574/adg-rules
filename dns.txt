@@ -79,4 +79,4 @@
 ||union-httpdns.gslb.yy.com^
 
 #IPV4_DNS
-||119.29.29.88^
+||pdns.dnspod.cn^
