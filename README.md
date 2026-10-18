@@ -2,17 +2,6 @@
 
 自用 [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) 规则集，持续维护。
 
-## 📁 文件说明
-
-| 文件 | 规则数 | 格式 | 用途 |
-| --- | ---: | --- | --- |
-| `rules-data.txt` | 1,654 行 | AdGuard | **主拦截规则**：按应用/厂商分类的 SDK 与广告域名（1,487 条 `\|\|` 规则 + 37 条正则） |
-| `white-rules.txt` | 371 行 | AdGuard | **白名单**：放行被上游规则误杀的必需域名（抖音、头条系等） |
-| `Day.txt` | 67 行 | 正则 | **日常补充**：酷狗、广告服务等正则拦截 |
-| `dns.txt` | 82 行 | AdGuard | **DNS 类**：iQiyi 等 CDN/DNS 定向拦截 |
-
-> 所有文件均为 UTF-8 纯文本，`#` 开头为注释，AdGuard Home 会自动忽略。
-
 ## 🚀 订阅方式
 
 在 AdGuard Home 的 **过滤器 → DNS 拦截清单** 中添加以下地址（任选所需）：
