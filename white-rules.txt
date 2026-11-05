@@ -237,6 +237,10 @@
 #宗师之上
 @@||account-api.lingxigames.com^
 
+#米哈游
+@@||mihoyo.com^
+
+
 
 #秘塔AI
 @@||metaso.cn^
